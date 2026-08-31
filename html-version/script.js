@@ -30,4 +30,4 @@ if (ctaButton) {
     });
 }
 
-console.log('Africa Agro Inc website loaded successfully!');
+console.log('Africa Agro Inc - Liberian Cocoa Supply - Website Loaded!');
